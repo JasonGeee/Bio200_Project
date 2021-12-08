@@ -1,9 +1,9 @@
 # Bio200_Project
-Jason Gutierrez__
-Biology 200 General Biology__
-Professor Caleb Jones__
-Lab Instructor: Anita Arenas__
-12/08/2021__
+Jason Gutierrez<br/>
+Biology 200 General Biology<br/>
+Professor Caleb Jones<br/>
+Lab Instructor: Anita Arenas<br/>
+12/08/2021<br/>
 
 Final Lab Project:
 Darwin's Finches
