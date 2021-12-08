@@ -67,9 +67,14 @@ li, a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    max-width: 600px;
+    max-width: 500px;
     margin-left: auto;
     margin-right: auto;
     padding-top: 60px;
     padding-bottom: 60px;;
 }
+
+img {
+    margin: 10px;
+}
+
