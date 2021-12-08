@@ -30,6 +30,7 @@ li, a {
     justify-content: center;
     align-items: center;
     margin: 150px;
+    font-size: 32px;
 }
 
 /* Intro code */
@@ -60,3 +61,15 @@ li, a {
     padding-bottom: 60px;;
 }
 
+/* Finches code */
+.finches {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 60px;
+    padding-bottom: 60px;;
+}
